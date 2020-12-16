@@ -47,8 +47,8 @@ def getAllImages(folder):
 
 # -------------------------------------------- Main ----------------------------------------------------- #
 
-dirr1 = "../Desktop/3d_kartinki/"
-dirr2 = "../Desktop/3d_kartinkiEdited/"
+# dirr1 = "../Desktop/3d_kartinki/"
+# dirr2 = "../Desktop/3d_kartinkiEdited/"
 
 
 dirr3 = "./1st_folder/"
