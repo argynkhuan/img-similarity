@@ -1,0 +1,4 @@
+- review thesis
+- review topic
+- code refactoring
+- test device
